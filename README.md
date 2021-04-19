@@ -31,19 +31,9 @@ My main projects are based on deep leanring, I use the most diverse technologies
  **LinkedIn:** [brunoluizmendes](https://www.linkedin.com/in/brunoluizmendes/)
  **Medium:** [Data Easy](https://brunoluizmendes.medium.com)
  
- 
 # About Projetcs
 
 I really like investments, the studies below do show how vast the data science can be, the stock exchange its **not rocket science** when we develop machine and deep learning simple tools.
 ## Fundamental and technical analysis of actions
-## LSTM applied to predict stock market closing prices.
+## Time Series of Price Anomaly Detection
 ## Sentimental analysis of financial market news
-## My portifolio Page - Web 
-
-
-
-
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-- xxxxxxxxxxxxxxxxxxxxxxxxxx
-	> To start syncing your workspace, just sign in with Google in the menu.
