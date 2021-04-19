@@ -34,14 +34,11 @@ My main projects are based on deep leanring, I use the most diverse technologies
  
 # About Projetcs
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-## Fundamental and technical analysis of stock market
-## Time Series of Price Anomaly Detection with LSTM
-## Customer Churn Analysis 
+I really like investments, the studies below do show how vast the data science can be, the stock exchange its **not rocket science** when we develop machine and deep learning simple tools.
+## Fundamental and technical analysis of actions
+## LSTM applied to predict stock market closing prices.
 ## Sentimental analysis of financial market news
-## My portifolio Page
+## My portifolio Page - Web 
 
 
 
@@ -50,45 +47,3 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 - xxxxxxxxxxxxxxxxxxxxxxxxxx
 	> To start syncing your workspace, just sign in with Google in the menu.
-
-
-
-
-
-
-
-
-
-
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
-## Precision
-
-$$
-Precision = TP/TP+FP
-$$
-$$
-Recall = TP/TP+FN
-$$
-
-> You can find more information about **Precision and Recall** mathematical expressions [here](https://en.wikipedia.org/wiki/Precision_and_recall).
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
