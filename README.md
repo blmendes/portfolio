@@ -37,8 +37,8 @@ My main projects are based on deep leanring, I use the most diverse technologies
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
-## Fundamental and technical analysis of actions
-## LSTM applied to predict stock market closing prices.
+## Fundamental and technical analysis of stock market
+## Time Series of Price Anomaly Detection with LSTM
 ## Customer Churn Analysis 
 ## Sentimental analysis of financial market news
 ## My portifolio Page
